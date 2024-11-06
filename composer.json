@@ -19,7 +19,7 @@
         "symfony/console": "~2.6",
         "symfony/filesystem": "~2.6",
         "symfony/finder": "~2.6",
-        "symfony/process": "~2.6",
+        "symfony/process": "~7.1",
         "symfony/yaml": "~2.6",
         "twig/twig": "~1.10",
         "erusev/parsedown": "~1.5",
